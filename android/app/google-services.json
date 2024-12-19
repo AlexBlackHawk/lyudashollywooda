@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "448346880353",
+    "project_id": "lyudashollywooda-48c11",
+    "storage_bucket": "lyudashollywooda-48c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448346880353:android:7cac8ff5633ecbc9346d20",
+        "android_client_info": {
+          "package_name": "com.eon.lyudashollywooda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448346880353-e3a73bdhpith958iitgvgd7lo7pu28eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eon.lyudashollywooda",
+            "certificate_hash": "634facb24e5c51d2d185f5efb94958ee4b7b8360"
+          }
+        },
+        {
+          "client_id": "448346880353-i6ttoa518k0g8m27hknvs8fil1pngk2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eon.lyudashollywooda",
+            "certificate_hash": "60e21094813cc901090340d1749a7a4de442a28c"
+          }
+        },
+        {
+          "client_id": "448346880353-tgg90c5lt1evrh0ervltrteck67mthnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYD1uJJCAzn6gRGhGXejRbtIfAIl0BdCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448346880353-tgg90c5lt1evrh0ervltrteck67mthnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448346880353-f556oi9qgv5k7e9knem479f0o92ucjjn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eon.lyudashollywooda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

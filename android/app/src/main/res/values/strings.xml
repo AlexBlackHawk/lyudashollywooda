@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LifeHub</string>
+    <string name="facebook_app_id">927937958707651</string>
+    <string name="fb_login_protocol_scheme">fb927937958707651</string>
+    <string name="facebook_client_token">f5cbd1cc4107c8c96a5cccaeadaec2e1</string>
+</resources>
